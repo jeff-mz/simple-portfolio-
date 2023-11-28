@@ -1,0 +1,18 @@
+.btn {
+    font-size: 18px;
+    color: #eae7e8;
+    background-color: #333;
+    border-radius: 5px;
+    width: max-content ;
+    border: none;
+    padding: .5rem;
+    cursor: pointer;
+    margin: .7rem 0px ;
+    @media (max-width:450px ) {
+        font-size: 14px ;
+    }
+}
+.btn:hover{
+    color: #fefefe;
+    background-color: #017562;
+}

@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Portfolio-with-react/static/css/main.2e48c7e3.css",
+    "main.js": "/Portfolio-with-react/static/js/main.c51f8e5c.js",
+    "static/media/chat-app.png": "/Portfolio-with-react/static/media/chat-app.ee853a055da2a9707841.png",
+    "static/media/movie-app.png": "/Portfolio-with-react/static/media/movie-app.5941aff86c87a8675770.png",
+    "static/media/todo-app.png": "/Portfolio-with-react/static/media/todo-app.80771c4177c5c95919e3.png",
+    "static/media/developing-img.png": "/Portfolio-with-react/static/media/developing-img.127f34c10d3e02f2bdfb.png",
+    "index.html": "/Portfolio-with-react/index.html",
+    "static/media/bg.svg": "/Portfolio-with-react/static/media/bg.78929e0096636d8ce119.svg",
+    "main.2e48c7e3.css.map": "/Portfolio-with-react/static/css/main.2e48c7e3.css.map",
+    "main.c51f8e5c.js.map": "/Portfolio-with-react/static/js/main.c51f8e5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e48c7e3.css",
+    "static/js/main.c51f8e5c.js"
+  ]
+}
